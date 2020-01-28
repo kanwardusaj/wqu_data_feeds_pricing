@@ -17,4 +17,26 @@ b. Variance in market value
 c. Minimum market value
 d. Maximum market value
 
+Note - Please follow below steps to configure based on the version of Microsoft Office -
 
+Excel 2016 and above - 
+Navigate to the following directory on your windows machine: 
+c:\Windows\assembly\GAC_MSIL\Microsoft.Office.Interop.Excel\15.0.0.0_71e9bce111e9429c
+Inside this directory you should see the following .dll file:
+Microsoft.Office.Interop.Excel.dll
+Copy the 15.0.0.0_71e9bce111e9429c directory, together with the .dll file it contains into the following directory:
+c:\Windows\assembly\GAC_MSIL\office
+If the "office" directory doesn't exist, create it.
+Don't forget to add in VisualStudio in your project/solution the following COM references: 
+Microsoft Office 16.0 Object Library
+Microsoft Excel 16.0 Object Library
+
+Excel 2013 -
+
+1.	Start Microsoft Visual Studio 2017 and or (above) or Microsoft Visual Studio .NET.
+2.	On the File menu, click New, and then click Project. Select Windows Application from the Visual C# Project types. Form1 is created by default.
+3.	Add a reference to Microsoft Excel 11.0 Object Library in Visual Studio 2017 or Microsoft Excel Object Library in Visual Studio .NET. To do this, follow these steps:(optional changes if using previous versions of Office )
+i.	On the Project menu, click Add Reference.
+ii.	On the COM tab, locate Microsoft Excel Object Library, and then click Select.
+In Visual Studio 2017, locate Microsoft Excel 11.0 Object Library on the COM tab.
+Note Microsoft Office 2003 includes Primary Interop Assemblies (PIAs). Microsoft Office XP does not include PIAs, but they may be downloaded.
