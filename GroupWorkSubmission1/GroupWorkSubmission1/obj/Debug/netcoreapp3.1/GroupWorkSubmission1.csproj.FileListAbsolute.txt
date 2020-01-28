@@ -1,0 +1,32 @@
+D:\WQU\Data feeds and technology\GroupWorkSubmission1\GroupWorkSubmission1\bin\Debug\netcoreapp3.1\GroupWorkSubmission1.exe
+D:\WQU\Data feeds and technology\GroupWorkSubmission1\GroupWorkSubmission1\bin\Debug\netcoreapp3.1\GroupWorkSubmission1.deps.json
+D:\WQU\Data feeds and technology\GroupWorkSubmission1\GroupWorkSubmission1\bin\Debug\netcoreapp3.1\GroupWorkSubmission1.runtimeconfig.json
+D:\WQU\Data feeds and technology\GroupWorkSubmission1\GroupWorkSubmission1\bin\Debug\netcoreapp3.1\GroupWorkSubmission1.runtimeconfig.dev.json
+D:\WQU\Data feeds and technology\GroupWorkSubmission1\GroupWorkSubmission1\bin\Debug\netcoreapp3.1\GroupWorkSubmission1.dll
+D:\WQU\Data feeds and technology\GroupWorkSubmission1\GroupWorkSubmission1\bin\Debug\netcoreapp3.1\GroupWorkSubmission1.pdb
+D:\WQU\Data feeds and technology\GroupWorkSubmission1\GroupWorkSubmission1\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Core.dll
+D:\WQU\Data feeds and technology\GroupWorkSubmission1\GroupWorkSubmission1\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+D:\WQU\Data feeds and technology\GroupWorkSubmission1\GroupWorkSubmission1\obj\Debug\netcoreapp3.1\GroupWorkSubmission1.csprojAssemblyReference.cache
+D:\WQU\Data feeds and technology\GroupWorkSubmission1\GroupWorkSubmission1\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Core.dll
+D:\WQU\Data feeds and technology\GroupWorkSubmission1\GroupWorkSubmission1\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+D:\WQU\Data feeds and technology\GroupWorkSubmission1\GroupWorkSubmission1\obj\Debug\netcoreapp3.1\GroupWorkSubmission1.csproj.ResolveComReference.cache
+D:\WQU\Data feeds and technology\GroupWorkSubmission1\GroupWorkSubmission1\obj\Debug\netcoreapp3.1\GroupWorkSubmission1.AssemblyInfoInputs.cache
+D:\WQU\Data feeds and technology\GroupWorkSubmission1\GroupWorkSubmission1\obj\Debug\netcoreapp3.1\GroupWorkSubmission1.AssemblyInfo.cs
+D:\WQU\Data feeds and technology\GroupWorkSubmission1\GroupWorkSubmission1\obj\Debug\netcoreapp3.1\GroupWorkSubmission1.dll
+D:\WQU\Data feeds and technology\GroupWorkSubmission1\GroupWorkSubmission1\obj\Debug\netcoreapp3.1\GroupWorkSubmission1.pdb
+D:\MSC WQU\9.Data Feed and Technology\GW_1\GroupWorkSubmission1\GroupWorkSubmission1\GroupWorkSubmission1\bin\Debug\netcoreapp3.1\GroupWorkSubmission1.exe
+D:\MSC WQU\9.Data Feed and Technology\GW_1\GroupWorkSubmission1\GroupWorkSubmission1\GroupWorkSubmission1\bin\Debug\netcoreapp3.1\GroupWorkSubmission1.deps.json
+D:\MSC WQU\9.Data Feed and Technology\GW_1\GroupWorkSubmission1\GroupWorkSubmission1\GroupWorkSubmission1\bin\Debug\netcoreapp3.1\GroupWorkSubmission1.runtimeconfig.json
+D:\MSC WQU\9.Data Feed and Technology\GW_1\GroupWorkSubmission1\GroupWorkSubmission1\GroupWorkSubmission1\bin\Debug\netcoreapp3.1\GroupWorkSubmission1.runtimeconfig.dev.json
+D:\MSC WQU\9.Data Feed and Technology\GW_1\GroupWorkSubmission1\GroupWorkSubmission1\GroupWorkSubmission1\bin\Debug\netcoreapp3.1\GroupWorkSubmission1.dll
+D:\MSC WQU\9.Data Feed and Technology\GW_1\GroupWorkSubmission1\GroupWorkSubmission1\GroupWorkSubmission1\bin\Debug\netcoreapp3.1\GroupWorkSubmission1.pdb
+D:\MSC WQU\9.Data Feed and Technology\GW_1\GroupWorkSubmission1\GroupWorkSubmission1\GroupWorkSubmission1\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Core.dll
+D:\MSC WQU\9.Data Feed and Technology\GW_1\GroupWorkSubmission1\GroupWorkSubmission1\GroupWorkSubmission1\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+D:\MSC WQU\9.Data Feed and Technology\GW_1\GroupWorkSubmission1\GroupWorkSubmission1\GroupWorkSubmission1\obj\Debug\netcoreapp3.1\GroupWorkSubmission1.csprojAssemblyReference.cache
+D:\MSC WQU\9.Data Feed and Technology\GW_1\GroupWorkSubmission1\GroupWorkSubmission1\GroupWorkSubmission1\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Core.dll
+D:\MSC WQU\9.Data Feed and Technology\GW_1\GroupWorkSubmission1\GroupWorkSubmission1\GroupWorkSubmission1\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+D:\MSC WQU\9.Data Feed and Technology\GW_1\GroupWorkSubmission1\GroupWorkSubmission1\GroupWorkSubmission1\obj\Debug\netcoreapp3.1\GroupWorkSubmission1.csproj.ResolveComReference.cache
+D:\MSC WQU\9.Data Feed and Technology\GW_1\GroupWorkSubmission1\GroupWorkSubmission1\GroupWorkSubmission1\obj\Debug\netcoreapp3.1\GroupWorkSubmission1.AssemblyInfoInputs.cache
+D:\MSC WQU\9.Data Feed and Technology\GW_1\GroupWorkSubmission1\GroupWorkSubmission1\GroupWorkSubmission1\obj\Debug\netcoreapp3.1\GroupWorkSubmission1.AssemblyInfo.cs
+D:\MSC WQU\9.Data Feed and Technology\GW_1\GroupWorkSubmission1\GroupWorkSubmission1\GroupWorkSubmission1\obj\Debug\netcoreapp3.1\GroupWorkSubmission1.dll
+D:\MSC WQU\9.Data Feed and Technology\GW_1\GroupWorkSubmission1\GroupWorkSubmission1\GroupWorkSubmission1\obj\Debug\netcoreapp3.1\GroupWorkSubmission1.pdb
